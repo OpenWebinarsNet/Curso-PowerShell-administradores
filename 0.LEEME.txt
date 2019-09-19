@@ -1,0 +1,3 @@
+Este material es necesario para realizar las prácticas y está depositado en github:
+
+https://github.com/mftienda/PowerShellAdministradores
